@@ -1,2 +1,3 @@
-# cautious-broccoli
-just another repository
+# hello-world
+
+Hi Humans!
